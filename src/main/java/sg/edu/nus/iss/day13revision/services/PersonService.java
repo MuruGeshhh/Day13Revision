@@ -23,7 +23,7 @@ public class PersonService {
 
  }
 
-    public List<Person> Persons(){
+    public List<Person> getPersons(){
         return this.persons;
 
     
